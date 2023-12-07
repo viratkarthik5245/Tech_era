@@ -1,0 +1,70 @@
+.app-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.tech-ul-card {
+  width: 90%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.tech-app-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 18%;
+  list-style-type: none;
+  margin: 10px;
+}
+.main-heading {
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #1e293b;
+  text-align: left;
+  align-self: flex-start;
+}
+.failure-card {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #1e293b;
+}
+.description {
+  font-size: 12px;
+  font-family: 'Roboto';
+  font-weight: 400;
+  color: #1e293b;
+}
+.retry-button {
+  background-color: #4656a1;
+  height: 30px;
+  width: 80px;
+  border-radius: 5px;
+  color: #ffffff;
+}
+.failure-image {
+  height: 300px;
+  width: 80%;
+}
+.Link-card {
+  text-decoration: none;
+  color: #1e293b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 18%;
+  list-style-type: none;
+  margin: 10px;
+}

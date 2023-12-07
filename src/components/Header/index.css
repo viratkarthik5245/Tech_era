@@ -1,0 +1,16 @@
+.nav-card {
+  background-color: #f1f5f9;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100%;
+  padding: 10px;
+}
+.website-logo-img {
+  height: 40px;
+  width: 150px;
+}
+
+.Link-card {
+  text-decoration: none;
+}
